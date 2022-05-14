@@ -44,7 +44,6 @@
   <button type="submit" class="btn btn-primary">Enviar</button>
   </div>
 </form>
-
-    </section>
+</section>
 </body>
 </html>
